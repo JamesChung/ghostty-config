@@ -21,4 +21,5 @@ font-family = SauceCodePro Nerd Font Mono
 maximize = true
 window-width = 177
 window-height = 80
+custom-shader = shaders/bloom.wgsl
 custom-shader = shaders/cursor_trail.wgsl
